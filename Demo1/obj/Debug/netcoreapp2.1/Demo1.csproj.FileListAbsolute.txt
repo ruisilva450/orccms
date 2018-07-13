@@ -1,0 +1,17 @@
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\bin\Debug\netcoreapp2.1\Demo1.deps.json
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\bin\Debug\netcoreapp2.1\Demo1.runtimeconfig.json
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\bin\Debug\netcoreapp2.1\Demo1.runtimeconfig.dev.json
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\bin\Debug\netcoreapp2.1\Demo1.dll
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\bin\Debug\netcoreapp2.1\Demo1.pdb
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\bin\Debug\netcoreapp2.1\OrchardCore.Modules.Module1.dll
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\bin\Debug\netcoreapp2.1\OrchardCore.Modules.Module1.pdb
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.csprojAssemblyReference.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.csproj.CoreCompileInputs.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.RazorAssemblyInfo.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.RazorAssemblyInfo.cs
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.AssemblyInfoInputs.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.AssemblyInfo.cs
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.RazorTargetAssemblyInfo.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.csproj.CopyComplete
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.dll
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Demo1\obj\Debug\netcoreapp2.1\Demo1.pdb

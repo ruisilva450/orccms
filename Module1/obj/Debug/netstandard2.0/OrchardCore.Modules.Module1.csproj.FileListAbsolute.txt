@@ -1,0 +1,9 @@
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\bin\Debug\netstandard2.0\OrchardCore.Modules.Module1.deps.json
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\bin\Debug\netstandard2.0\OrchardCore.Modules.Module1.dll
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\bin\Debug\netstandard2.0\OrchardCore.Modules.Module1.pdb
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\obj\Debug\netstandard2.0\OrchardCore.Modules.Module1.csprojAssemblyReference.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\obj\Debug\netstandard2.0\OrchardCore.Modules.Module1.csproj.CoreCompileInputs.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\obj\Debug\netstandard2.0\OrchardCore.Modules.Module1.AssemblyInfoInputs.cache
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\obj\Debug\netstandard2.0\OrchardCore.Modules.Module1.AssemblyInfo.cs
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\obj\Debug\netstandard2.0\OrchardCore.Modules.Module1.dll
+D:\DevScope\My_Research\CMS\13072018\orchard\Demo1\Module1\obj\Debug\netstandard2.0\OrchardCore.Modules.Module1.pdb

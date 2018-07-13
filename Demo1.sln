@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1\Demo1.csproj", "{8FB65592-62EF-4850-AE7D-2E9DB421E2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardCore.Modules.Module1", "Module1\OrchardCore.Modules.Module1.csproj", "{E2E5D1F4-F089-44A6-B35F-4824C3FB3E96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrchardCore.Modules", "OrchardCore.Modules", "{9FF7F3D3-83E4-4C30-8FAD-F9AB65654A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB65592-62EF-4850-AE7D-2E9DB421E2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB65592-62EF-4850-AE7D-2E9DB421E2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB65592-62EF-4850-AE7D-2E9DB421E2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB65592-62EF-4850-AE7D-2E9DB421E2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E5D1F4-F089-44A6-B35F-4824C3FB3E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E5D1F4-F089-44A6-B35F-4824C3FB3E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E5D1F4-F089-44A6-B35F-4824C3FB3E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E5D1F4-F089-44A6-B35F-4824C3FB3E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2E5D1F4-F089-44A6-B35F-4824C3FB3E96} = {9FF7F3D3-83E4-4C30-8FAD-F9AB65654A3C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8424EAD3-55C7-4094-8347-473FE9300774}
+	EndGlobalSection
+EndGlobal

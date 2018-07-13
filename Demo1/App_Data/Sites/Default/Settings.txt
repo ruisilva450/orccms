@@ -1,0 +1,8 @@
+Default:
+  RequestUrlHost: &1436038457 ~
+  RequestUrlPrefix: ~
+  DatabaseProvider: Sqlite
+  TablePrefix: ~
+  ConnectionString: 1234.Abcd
+  State: Running
+...
